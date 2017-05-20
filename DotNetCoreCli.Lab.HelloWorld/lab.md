@@ -30,5 +30,5 @@ dotnet build --output MyAppje
 Run the assembly
 ```
 cd MyAppje
-dotnet ASSEMBLYNAME.dll
+dotnet <ASSEMBLYNAME>.dll
 ```
